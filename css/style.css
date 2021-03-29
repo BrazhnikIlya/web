@@ -130,7 +130,7 @@ a:hover {
 }
 
 .navbar-nav > li:after {
-	background:url(../images/dot.png) no-repeat;
+
     content: "";
     height:5px;
     position: absolute;
