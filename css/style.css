@@ -1570,13 +1570,7 @@ h1 {
 	color:#b59e5c;
 }
 
-.pricing-bg .main-pricing .price-block:hover .inner-price .main-btn::before {
-	content:url(../images/home-page/pricing-btn-bullet.png);	
-}
 
-.pricing-bg .main-pricing .price-block:hover .inner-price .main-btn::after {
-	content:url(../images/home-page/pricing-btn-bullet.png);	
-}
 
 /* 4.6. ========== Pricing Section End ==========*/
 
