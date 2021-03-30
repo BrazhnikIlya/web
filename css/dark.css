@@ -100,7 +100,7 @@ select.form-control option {
 
 
 .navbar-nav > li:after {
-	background:url(../images/dot.png) no-repeat;
+
     content: "";
     height:5px;
     position: absolute;
@@ -4870,13 +4870,6 @@ p {
 
 
 
-.main-btn:hover::after {
-	content:url(../images/dot.png);	
-}
-
-.main-btn:hover::before {
-	content:url(../images/dot.png);	
-}
 
 .h-page-title h1 {
 	color:#ffffff;	
